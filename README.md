@@ -1,29 +1,13 @@
 # blog
 
-## Project setup
-```
-yarn install
-```
+本文主要是对自我学习的一个记录
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+本文采用vuepress来记录笔记
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+采用vue-cli3脚手架来做一些demo
 
-### Run your tests
+## 服务
+```js
+yarn dev // 文档服务
+yarn serve // demo服务
 ```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
